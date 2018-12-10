@@ -5,6 +5,10 @@ import App from './App'
 import router from './router'
 
 Vue.config.productionTip = false
+// element
+import  element from "./element-ui.js";
+import './element-variables.scss';
+element();
 
 /* eslint-disable no-new */
 new Vue({
