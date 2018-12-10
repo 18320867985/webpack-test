@@ -11,6 +11,7 @@ $text-success: #5cb85c; // 警告
 $text-warning: #f0ad4e; // 警告   
 $text-danger : #f05a00; // 危险 
 
+/*=========================================*/
 
 
 /* 改变 icon 字体路径变量，必需 */
@@ -28,7 +29,7 @@ $--color-transition-base: color .2s cubic-bezier(.645,.045,.355,1) !default;
 -------------------------- */
 $--color-white: #fff !default;
 $--color-black: #000 !default;
-$--color-primary: 	#409EFF !default;
+$--color-primary: #409EFF !default;
 $--color-success:  #67c23a !default;
 $--color-warning:	#e6a23c !default;
 $--color-danger: #f56c6c !default;
